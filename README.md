@@ -10,13 +10,13 @@ Create new repository and start code from scratch.
 
 ## Mock-Up
 
-![alt text](https://github.com/stephenrossetti/Module-2-Challenge/blob/main/assets/Images/MockUpTop.png)
+![alt text](https://github.com/stephenrossetti/Module-3-Challenge/blob/main/Assets/Mock-Up.png)
 
 ## Usage
 
-To view this wesbite, open the HTML link here: https://stephenrossetti.github.io/Module-2-Challenge/.
+To view this wesbite, open the HTML link here: https://stephenrossetti.github.io/Module-3-Challenge/.
 
-To review the code, open the GitHub repository here: https://github.com/stephenrossetti/Module-2-Challenge.git.
+To review the code, open the GitHub repository here: https://github.com/stephenrossetti/Module-3-Challenge.git.
 
 ## Credits
 
